@@ -1,0 +1,4 @@
+﻿première page (page de présentation de l'entreprise)
+seconde page (présentation de vos partenaires)
+troisième page (présentation des projets)
+dernière page (contact avec un formulaire contenant :nom prénom, entreprise, sujet, message (tous requis pour envoyer)
